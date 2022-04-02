@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: url(fond.png) no-repeat;
+	background-size: cover;
+	margin-top: 45px;
+	width: 95%;
+	margin: auto;
+}
+
+.header{
+	margin-top: 45px;
+	display: flex;
+}
+
+.logo img{
+	height: 30px;
+	margin-right: 100px;
+}
+
+.lien{
+	padding-right: 50px;
+}
+
+.menu{
+	padding-top: 10px;
+}
+
+ul{
+	display: flex;
+	list-style-type: none;
+}
+
+ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.text{
+	color: white;
+	margin-top: 150px;
+}
+.titre{
+	font-size: 4.2em;
+}
+
+.jaune{
+	background: ;
+}
+
