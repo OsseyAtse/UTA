@@ -51,3 +51,8 @@ ul li a{
 	background: ;
 }
 
+.imgg img {
+	display: flex;
+	margin-left: 25px;
+	border-radius: 5px;
+}
